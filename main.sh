@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 while true; do
-	echo "Welcome ALU"
+	echo "Welcome ALU "
 	echo "1: Create a student List"
 	echo "2: View the student"
 	echo "3: Delete"
