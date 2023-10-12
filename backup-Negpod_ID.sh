@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Define variables for remote server details
 host="2f05c1f8800b.3be8ebfc.alu-cod.online"
