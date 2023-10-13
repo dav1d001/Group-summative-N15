@@ -1,1 +1,1 @@
-Work done collectively
+This is a group about Introduction to Linux. As a Negpod we are required to build an application that registers student's details into the ALU registration System. The application will take inputs from the users asking for their emails, IDs, and ages. This information will then be redirected to a text file called the student_list. We will also try to collect or extract the email from the student_lsit to a seperate file call the student-email.
