@@ -1,0 +1,1 @@
+#the purpose of this codes is to build an application that registers students' details into the ALU registration system. The application takes user input and loads and builds the Bachelor of Software Engineering cohort list of students. The inputs the application takes are the following information (student email, age, and student ID).
